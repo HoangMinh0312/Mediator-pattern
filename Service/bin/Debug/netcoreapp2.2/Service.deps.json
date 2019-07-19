@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "Service/1.0.0": {
+        "dependencies": {
+          "LowellMediator": "1.0.0",
+          "LowellServiceModel": "1.0.0"
+        },
+        "runtime": {
+          "Service.dll": {}
+        }
+      },
+      "LowellMediator/1.0.0": {
+        "runtime": {
+          "LowellMediator.dll": {}
+        }
+      },
+      "LowellServiceModel/1.0.0": {
+        "dependencies": {
+          "LowellMediator": "1.0.0"
+        },
+        "runtime": {
+          "LowellServiceModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LowellMediator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LowellServiceModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

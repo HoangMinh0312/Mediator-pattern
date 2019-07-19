@@ -1,0 +1,14 @@
+C:\Users\HOME\source\repos\ClientApi\Lowell.Command\bin\Debug\netcoreapp2.2\Lowell.Command.deps.json
+C:\Users\HOME\source\repos\ClientApi\Lowell.Command\bin\Debug\netcoreapp2.2\Lowell.Command.dll
+C:\Users\HOME\source\repos\ClientApi\Lowell.Command\bin\Debug\netcoreapp2.2\Lowell.Command.pdb
+C:\Users\HOME\source\repos\ClientApi\Lowell.Command\bin\Debug\netcoreapp2.2\LowellMediator.dll
+C:\Users\HOME\source\repos\ClientApi\Lowell.Command\bin\Debug\netcoreapp2.2\LowellServiceModel.dll
+C:\Users\HOME\source\repos\ClientApi\Lowell.Command\bin\Debug\netcoreapp2.2\LowellMediator.pdb
+C:\Users\HOME\source\repos\ClientApi\Lowell.Command\bin\Debug\netcoreapp2.2\LowellServiceModel.pdb
+C:\Users\HOME\source\repos\ClientApi\Lowell.Command\obj\Debug\netcoreapp2.2\Lowell.Command.csprojAssemblyReference.cache
+C:\Users\HOME\source\repos\ClientApi\Lowell.Command\obj\Debug\netcoreapp2.2\Lowell.Command.csproj.CoreCompileInputs.cache
+C:\Users\HOME\source\repos\ClientApi\Lowell.Command\obj\Debug\netcoreapp2.2\Lowell.Command.AssemblyInfoInputs.cache
+C:\Users\HOME\source\repos\ClientApi\Lowell.Command\obj\Debug\netcoreapp2.2\Lowell.Command.AssemblyInfo.cs
+C:\Users\HOME\source\repos\ClientApi\Lowell.Command\obj\Debug\netcoreapp2.2\Lowell.Command.csproj.CopyComplete
+C:\Users\HOME\source\repos\ClientApi\Lowell.Command\obj\Debug\netcoreapp2.2\Lowell.Command.dll
+C:\Users\HOME\source\repos\ClientApi\Lowell.Command\obj\Debug\netcoreapp2.2\Lowell.Command.pdb

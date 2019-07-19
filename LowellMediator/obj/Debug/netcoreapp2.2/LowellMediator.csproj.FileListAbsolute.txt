@@ -1,0 +1,8 @@
+C:\Users\HOME\source\repos\ClientApi\LowellMediator\bin\Debug\netcoreapp2.2\LowellMediator.deps.json
+C:\Users\HOME\source\repos\ClientApi\LowellMediator\bin\Debug\netcoreapp2.2\LowellMediator.dll
+C:\Users\HOME\source\repos\ClientApi\LowellMediator\bin\Debug\netcoreapp2.2\LowellMediator.pdb
+C:\Users\HOME\source\repos\ClientApi\LowellMediator\obj\Debug\netcoreapp2.2\LowellMediator.csproj.CoreCompileInputs.cache
+C:\Users\HOME\source\repos\ClientApi\LowellMediator\obj\Debug\netcoreapp2.2\LowellMediator.AssemblyInfoInputs.cache
+C:\Users\HOME\source\repos\ClientApi\LowellMediator\obj\Debug\netcoreapp2.2\LowellMediator.AssemblyInfo.cs
+C:\Users\HOME\source\repos\ClientApi\LowellMediator\obj\Debug\netcoreapp2.2\LowellMediator.dll
+C:\Users\HOME\source\repos\ClientApi\LowellMediator\obj\Debug\netcoreapp2.2\LowellMediator.pdb

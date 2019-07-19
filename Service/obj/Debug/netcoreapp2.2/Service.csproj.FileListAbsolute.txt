@@ -1,0 +1,14 @@
+C:\Users\HOME\source\repos\ClientApi\Service\bin\Debug\netcoreapp2.2\Service.deps.json
+C:\Users\HOME\source\repos\ClientApi\Service\bin\Debug\netcoreapp2.2\Service.dll
+C:\Users\HOME\source\repos\ClientApi\Service\bin\Debug\netcoreapp2.2\Service.pdb
+C:\Users\HOME\source\repos\ClientApi\Service\bin\Debug\netcoreapp2.2\LowellMediator.dll
+C:\Users\HOME\source\repos\ClientApi\Service\bin\Debug\netcoreapp2.2\LowellServiceModel.dll
+C:\Users\HOME\source\repos\ClientApi\Service\bin\Debug\netcoreapp2.2\LowellMediator.pdb
+C:\Users\HOME\source\repos\ClientApi\Service\bin\Debug\netcoreapp2.2\LowellServiceModel.pdb
+C:\Users\HOME\source\repos\ClientApi\Service\obj\Debug\netcoreapp2.2\Service.csprojAssemblyReference.cache
+C:\Users\HOME\source\repos\ClientApi\Service\obj\Debug\netcoreapp2.2\Service.csproj.CoreCompileInputs.cache
+C:\Users\HOME\source\repos\ClientApi\Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfoInputs.cache
+C:\Users\HOME\source\repos\ClientApi\Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfo.cs
+C:\Users\HOME\source\repos\ClientApi\Service\obj\Debug\netcoreapp2.2\Service.csproj.CopyComplete
+C:\Users\HOME\source\repos\ClientApi\Service\obj\Debug\netcoreapp2.2\Service.dll
+C:\Users\HOME\source\repos\ClientApi\Service\obj\Debug\netcoreapp2.2\Service.pdb
